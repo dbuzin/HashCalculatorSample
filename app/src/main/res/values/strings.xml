@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hash Calculator</string>
+    <string name="saving_error">Failure, can\'t save to file</string>
+</resources>
